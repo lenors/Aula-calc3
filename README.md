@@ -1,2 +1,2 @@
-# Aula-calc3
+# CalculatorStyled
 Created with CodeSandbox
